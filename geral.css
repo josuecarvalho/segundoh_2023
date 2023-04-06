@@ -1,7 +1,7 @@
 :root{
-    --cor_de_fundo_um:#7EDE97;
-    --cor_letra_fundo_um:#ABAFDE;
-    --cor_de_fundo_dois:#CEF3CB;
+    --cor_de_fundo_um:#13007c;
+    --cor_letra_fundo_um:#00a2ff;
+    --cor_de_fundo_dois:#efeeff;
     --cor_letra_de_fundo_claro:#000000;
 }
 * {
@@ -11,11 +11,11 @@
 .banner {
     width:100%;
     height: 100px;
-    background-color: var(--cor_de_fundo_um);
+    background-color: var(--cor_letra_de_fundo_claro);
 }
 .estudante{
-    height:90px;
-    width: 8%;
+    height: 100px;
+    width: 14%;
 }
 .conteudo{
     width: 100%;
@@ -25,5 +25,5 @@
 .rodape{
     width: 100%;
     height: 50px;
-    background-color: var(--cor_de_fundo_um);
+    background-color: var(--cor_letra_de_fundo_claro);
 }
