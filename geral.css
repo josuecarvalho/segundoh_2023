@@ -1,8 +1,8 @@
 :root{
-    --cor_de_fundo_um:#13007c;
-    --cor_letra_fundo_um:#00a2ff;
-    --cor_de_fundo_dois:#efeeff;
-    --cor_letra_de_fundo_claro:#000000;
+    --cor_de_fundo_um:#f18a61;
+    --cor_letra_fundo_um:#cf5c39;
+    --cor_de_fundo_dois:#e3e7e9;
+    --cor_letra_de_fundo_claro:#83a57e;
 }
 * {
     margin:0;
@@ -15,7 +15,7 @@
 }
 .estudante{
     height: 100px;
-    width: 14%;
+    width: 10%;
 }
 .conteudo{
     width: 100%;
@@ -26,4 +26,7 @@
     width: 100%;
     height: 50px;
     background-color: var(--cor_letra_de_fundo_claro);
+}
+h1 {
+    text-align: center;
 }
