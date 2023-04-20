@@ -13,9 +13,9 @@
     height: 100px;
     background-color: var(--cor_letra_de_fundo_claro);
 }
-.estudante{
+#estudante{
     height: 100px;
-    width: 10%;
+    width: 100px;
 }
 .conteudo{
     width: 100%;
@@ -29,4 +29,9 @@
 }
 h1 {
     text-align: center;
+}
+.título {
+    position: absolute;
+    top: 0;
+    left: 600px;
 }
